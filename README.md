@@ -2,6 +2,7 @@
 
 D20Simuluator is an application which allows to roll three 20 sided dice.
 
+<img alt=gif" src="d20.gif">
 
 Hotkeys:
 

@@ -8,7 +8,7 @@ Space - roll dice
 
 Left_Arrow - change colors of dice
 
-___
+---
 
 This application uses openGL and LWJGL.
 
